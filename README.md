@@ -194,5 +194,5 @@ These tests use the `mitm_proxy.py` script.
   * A ZIP of this GitHub repository.
   * `schema_dump.sql` (MySQL schema dump).
   * This updated README.md.
-  * `i221051-AbdulSamee-Report-A02.pdf`
-  * `i221051-AbdulSamee-TestReport-A02.pdf`
+  * `i221050-Umar Javed-Report-A02.pdf`
+  * `i221050-Umar Javed-TestReport-A02.pdf`
